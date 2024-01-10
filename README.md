@@ -7,7 +7,7 @@ Short description of your project.
 
 ## Author
 
-- **Ritesh**
+- **Ankit**
 
 ## Table of Contents
 
